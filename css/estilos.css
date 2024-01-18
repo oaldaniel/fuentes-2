@@ -1,0 +1,10 @@
+.externo{font-family: Cinzel;
+}
+
+@font-face{
+	font-family: Rubik Glitch;
+	src: url(../fonts/RubikGlitch-Regular.ttf);
+}
+.servidor{
+	font-family: Rubik Glitch;
+}
